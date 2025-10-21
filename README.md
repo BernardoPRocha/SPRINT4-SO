@@ -10,7 +10,7 @@
 ---
 
 ## 📽️ LINK DO VÍDEO
-[Link para o vídeo no YouTube (Privado)](https://youtu.be/TPuR4ZEh-Eo)
+[Link para o vídeo no YouTube](https://youtu.be/TPuR4ZEh-Eo)
 
 ##  LINK DO Github
 [Link para o Github](https://github.com/BernardoPRocha/SPRINT4-SO.git)
@@ -135,3 +135,4 @@ Endpoints já configurados para inserção de usuários e logs.
 
 
 # Curso: Operating Systems
+
