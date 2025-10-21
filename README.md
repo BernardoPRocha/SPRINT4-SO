@@ -1,4 +1,4 @@
-# Projeto: Operating Systems – Servidor Linux, Docker, SQLite e Anonimização de Dados
+# Projeto Sprint 4: Operating Systems – Servidor Linux, Docker, SQLite e Anonimização de Dados
 
 ## Integrantes do Grupo
 1. Bernardo Pinto Rocha - RM99209  
@@ -11,6 +11,9 @@
 
 ## 📽️ LINK DO VÍDEO
 [Link para o vídeo no YouTube (Privado)](https://youtu.be/TPuR4ZEh-Eo)
+
+##  LINK DO Github
+[Link para o Github](https://github.com/BernardoPRocha/SPRINT4-SO.git)
 
 ## Descrição do Projeto
 
@@ -129,5 +132,6 @@ Endpoints já configurados para inserção de usuários e logs.
 - ## Os logs são gravados de forma organizada, garantindo segurança e rastreabilidade.
 
 - ## O projeto demonstra integração entre Linux, Docker, Node.js e SQLite, com práticas de segurança para PII.
+
 
 # Curso: Operating Systems
